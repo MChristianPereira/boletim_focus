@@ -2,7 +2,6 @@ from bcb import Expectativas
 import pandas as pd
 from datetime import datetime, timedelta
 from dateutil.relativedelta import relativedelta
-import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 from matplotlib.ticker import PercentFormatter, FuncFormatter
 import locale
