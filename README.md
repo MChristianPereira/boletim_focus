@@ -7,7 +7,7 @@
 
 
 <p align="center">
-    <b>The project consists of tracking sales made and reporting them via discord. In case of refund, the report will be deleted.</b>
+    <b>The project consists of collecting data from the Focus Bulletin report on market expectations for the Selic Rate, IPCA, Total GDP and Exchange Rate for the following years. In addition, projection graphs with the median value are generated.</b>
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
